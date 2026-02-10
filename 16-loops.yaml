@@ -6,6 +6,6 @@
     ansible.builtin.debug:
       msg: "Hello {{ item }}" # item is reserved keyword
     loop:
-    - Ramesh
-    - Raheem
-    - John
+    - SankarGoud
+    - PavithraGoud
+    - Maina
