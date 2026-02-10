@@ -7,4 +7,4 @@
   - name: is ansible less than 6 sessions
     ansible.builtin.debug:
       msg: "Yes, less than 6 sessions"
-    when: Number of sessions < 
+    when: Number of sessions < 6
